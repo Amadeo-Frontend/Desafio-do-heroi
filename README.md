@@ -22,4 +22,4 @@ Basta abrir o arquivo `index.html` em qualquer navegador web para interagir com 
 
 ## Live
 
-https://vercel.com/amadeo-frontend/desafio-do-heroi
+https://desafio-do-heroi.vercel.app/
