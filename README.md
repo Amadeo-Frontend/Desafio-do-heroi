@@ -1,6 +1,6 @@
 # Desafio Classificador de Nível de Herói
 
-Este é um simples projeto de página web que implementa um classificador de nível para heróis com base em sua experiência (XP). O código é escrito em HTML, CSS e JavaScript, proporcionando uma experiência interativa para o usuário.
+Este é um projeto que implementa um classificador de nível para heróis com base em sua experiência (XP). O código é escrito em HTML, CSS e JavaScript, proporcionando uma experiência interativa para o usuário.
 
 ## Como Funciona
 
