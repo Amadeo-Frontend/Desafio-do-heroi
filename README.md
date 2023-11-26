@@ -19,3 +19,7 @@ Este é um projeto que implementa um classificador de nível para heróis com ba
 ## Como Executar
 
 Basta abrir o arquivo `index.html` em qualquer navegador web para interagir com a aplicação. Certifique-se de ter habilitado a execução de scripts.
+
+## Live
+
+https://vercel.com/amadeo-frontend/desafio-do-heroi
